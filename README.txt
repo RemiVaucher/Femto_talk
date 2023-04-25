@@ -1,0 +1,1 @@
+Some exercises for Neural Networks and SciKitLearn
